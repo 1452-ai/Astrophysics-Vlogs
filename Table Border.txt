@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+Astrofisica
+</title>
+</head>
+<body>
+<center>
+<img src="Banner 1.png"width=1250 height=400 border=0> <BR> <BR>
+<TABLE BORDER="0">
+<TR><H1>
+<TH><A HREF="URL">| Inicio |</A> </TH>
+<TH><A HREF="URL">| ¿Qué es? |</A> </TH>
+<TH><A HREF="URL">| ¿Qué estudia la Fisica? |</A> </TH>
+<TH><A HREF="URL">| Importancia |</A> </TH>
+<TH><A HREF="URL">| Ramas |</A> </TH>
+<TH><A HREF="URL">| Tipos de Fisica|</A> </TH>
+<TH><A HREF="URL">| Fisica Clasica |</A> </TH>
+<TH><A HREF="URL">| Fisica Moderna|</A> </TH> 
+<TH><A HREF="URL">| Teorias y experimentos |</A> </TH>
+<TH><A HREF="URL">| Principios |</A> </TH>
+
+</H1></TR>
+</TABLE>
+</body>
+</html>

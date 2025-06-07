@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>
+¿Qué es la astrofisica?
+</title>
+</head>
+<body>
+<center>
+<img src="Banner 1.png"width=1250 height=400 border=0> <BR> <BR>
+
+<TABLE BORDER="0">
+<TR><H1>
+<TH><A HREF="file:///D:/Web%20Site/Table%20(TR).HTML">| Inicio |</A> </TH>
+<TH><A HREF="file:///D:/Web%20Site/Qu%C3%A9%20es.html">| ¿Qué es? |</A> </TH>
+<TH><A HREF="file:///D:/Web%20Site/Qu%C3%A9%20estudia.html">| ¿Qué estudia la Fisica? |</A> </TH>
+<TH><A HREF="URL">| Importancia |</A> </TH>
+<TH><A HREF="URL">| Ramas |</A> </TH>
+<TH><A HREF="URL">| Tipos de Fisica|</A> </TH>
+<TH><A HREF="URL">| Fisica Clasica |</A> </TH>
+<TH><A HREF="URL">| Fisica Moderna|</A> </TH> 
+<TH><A HREF="URL">| Teorias y experimentos |</A> </TH>
+<TH><A HREF="URL">| Principios |</A> </TH>
+<br><br>
+<center><h1>¿Qué es la astrofísica?</h1>
+<br><br><br>
+<br></H3>La astrofísica es una ciencia interdisciplinaria en la que los principios de la física se aplican
+<br> a la astronomía para estudiar los objetos y fenómenos astronómicos.
+
+<br><br>Tradicionalmente, la astrofísica se ocupa de estudiar la formación y evolución del universo, así 
+<br>como de las propiedades físicas de las formas de materia presentes en el universo; es decir, la 
+<br>composición, densidad, temperatura y demás características de las estrellas, galaxias, medios interestelares
+<br> e intergalácticos, etc. Sin embargo, en los últimos tiempos, la astrofísica ha ido adquiriendo gran 
+<br>importancia para la determinación de nuevas leyes de la física que no pueden investigarse en los 
+<br>laboratorios terrestres.
+
+<br><br>La astrofísica es, actualmente, el campo de la física que requiere mayores competencias en las
+<br> diversas disciplinas físicas para su desarrollo.</H3>
+
+<BR>
+<BR><img src="Que es.png"width=700 height=500 border=0>
+
+
+</body>
+</html>

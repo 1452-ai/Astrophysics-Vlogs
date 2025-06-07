@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>
+¿Qué estudia la astrofisica?
+</title>
+</head>
+<body>
+<center>
+<img src="Banner 1.png"width=1250 height=400 border=0> <BR> <BR>
+
+<TABLE BORDER="0">
+<TR><H1>
+<TH><A HREF="file:///D:/Web%20Site/Table%20(TR).HTML">| Inicio |</A> </TH>
+<TH><A HREF="file:///D:/Web%20Site/Qu%C3%A9%20es.html">| ¿Qué es? |</A> </TH>
+<TH><A HREF="URL">| ¿Qué estudia la Fisica? |</A> </TH>
+<TH><A HREF="URL">| Importancia |</A> </TH>
+<TH><A HREF="URL">| Ramas |</A> </TH>
+<TH><A HREF="URL">| Tipos de Fisica|</A> </TH>
+<TH><A HREF="URL">| Fisica Clasica |</A> </TH>
+<TH><A HREF="URL">| Fisica Moderna|</A> </TH> 
+<TH><A HREF="URL">| Teorias y experimentos |</A> </TH>
+<TH><A HREF="URL">| Principios |</A> </TH>
+</table>
+<br><br>
+<center><h1>¿Qué estudia la astrofísica?</h1>
+<br><br><br>
+<br></H3>Tradicionalmente, la astrofísica se ocupa de estudiar la formación y evolución del universo, así como de las propiedades 
+<br>físicas de las formas de materia presentes en el universo; es decir, la composición, densidad, temperatura y demás características 
+<br>de las estrellas, galaxias, medios interestelares e intergalácticos, etc.
+
+<br>Puntos clave:
+<br><br>La astrofísica se centra en el estudio de objetos astronómicos, como planetas, galaxias y estrellas, y su objetivo es explicas 
+<br>la estructura y propiedades de los cuerpos celestes desde el punto de vista de la física.
+<br><br>Los astrofísicos utilizan métodos de recolección de información como la espectroscopia, fotometría y astrofotografía para 
+<br>observar y desarrollar investigaciones sobre el origen del universo.
+<br><br>Las profesiones más comunes relacionadas con la astrofísica incluyen la investigación, la docencia universitaria, el periodismo 
+<br>científico y el sector aeroespacial, para lo que se requiere un grado en Física o Astronomía más un máster o posgrado de especialización.
+
+<BR>
+<BR><img src="Que es.png"width=700 height=500 border=0>
+
+
+</body>
+</html>
